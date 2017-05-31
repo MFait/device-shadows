@@ -1,0 +1,19 @@
+{
+  "name": "device-shadows",
+  "version": "1.0.0",
+  "description": "a demo service for device shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MFait/device-shadows.git"
+  },
+  "author": "mfait",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MFait/device-shadows/issues"
+  },
+  "homepage": "https://github.com/MFait/device-shadows#readme"
+}
